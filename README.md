@@ -1,1 +1,1 @@
-# SC2002-project
+# OOP-assignment
